@@ -5,8 +5,10 @@ I learned many advanced Things IN Power BI while making Dashboard.
 Here is the Explanation about the Dataset
 •	Patient ID:
 A unique alphanumeric code assigned to each patient. This serves as the primary identifier to distinguish one patient's records from another. It's essential for tracking individual cases while ensuring privacy in data analysis.
+
 •	Patient Admission Date:
 The specific date and potentially time the patient was admitted to the emergency room. This field helps analyze patterns such as peak admission times, seasonal trends, or emergency response rates.
+
 •	Patient First Initial:
 The first letter of the patient's first name, often used for anonymization purposes in datasets to comply with privacy regulations like HIPAA or GDPR.
 •	Patient Last Name:
